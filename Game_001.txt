@@ -1,0 +1,5 @@
+ Loop : 0 / 1 Start_player : 0 Medium-Board
+Player 1 | Search_Deep     4 | MCTS_num   100 : 
+Player 2 | Search_Deep     4 | MCTS_num   100 : 
+Player 3 | Search_Deep     4 | MCTS_num   100 : 
+Player 4 | Search_Deep     4 | MCTS_num   100 : 
